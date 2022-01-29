@@ -1,0 +1,55 @@
+﻿Year,Date,Month,Course,Hole,Par,Score,FIR,FIR_Miss,GIR,GIR_Miss,Putts,Scramble
+2021,7/13/2021,August,Keller,1,4,4,1,NaN,1,NaN,2,NaN
+2021,7/13/2021,August,Keller,2,4,5,0,L,0,R,2,0
+2021,7/13/2021,August,Keller,3,5,5,1,NaN,1,NaN,2,NaN
+2021,7/13/2021,August,Keller,4,3,4,NaN,NaN,1,NaN,3,NaN
+2021,7/13/2021,August,Keller,5,4,5,1,NaN,0,S,2,0
+2021,7/13/2021,August,Keller,6,3,4,NaN,NaN,0,Icarito,2,0
+2021,7/13/2021,August,Keller,7,4,4,1,NaN,0,Icarito,1,1
+2021,7/13/2021,August,Keller,8,4,4,0,R,1,NaN,2,NaN
+2021,7/13/2021,August,Keller,9,4,4,1,NaN,1,NaN,2,NaN
+2021,7/13/2021,August,Keller,10,5,4,1,NaN,1,NaN,1,NaN
+2021,7/13/2021,August,Keller,11,4,4,0,R,0,L,1,1
+2021,7/13/2021,August,Keller,12,5,5,0,R,1,NaN,2,NaN
+2021,7/13/2021,August,Keller,13,3,3,NaN,NaN,1,NaN,2,NaN
+2021,7/13/2021,August,Keller,14,4,4,1,NaN,1,NaN,2,NaN
+2021,7/13/2021,August,Keller,15,3,4,NaN,NaN,0,R,2,0
+2021,7/13/2021,August,Keller,16,5,5,1,NaN,0,L,1,1
+2021,7/13/2021,August,Keller,17,4,5,0,L,0,L,2,0
+2021,7/13/2021,August,Keller,18,4,4,1,NaN,1,NaN,2,NaN
+2021,7/13/2021-2,May,St. Croix National,1,4,3,1,NaN,1,NaN,1,NaN
+2021,7/13/2021-2,May,St. Croix National,2,4,4,1,NaN,1,NaN,2,NaN
+2021,7/13/2021-2,May,St. Croix National,3,5,5,1,NaN,1,NaN,2,NaN
+2021,7/13/2021-2,May,St. Croix National,4,3,4,NaN,NaN,0,Icarito,2,0
+2021,7/13/2021-2,May,St. Croix National,5,4,4,1,NaN,1,NaN,2,NaN
+2021,7/13/2021-2,May,St. Croix National,6,3,4,NaN,NaN,0,S,2,0
+2021,7/13/2021-2,May,St. Croix National,7,4,5,0,R,0,S,2,0
+2021,7/13/2021-2,May,St. Croix National,8,4,5,0,R,0,L,2,0
+2021,7/13/2021-2,May,St. Croix National,9,4,4,0,L,0,Icarito,1,1
+2021,7/13/2021-2,May,St. Croix National,10,5,4,1,NaN,1,NaN,1,NaN
+2021,7/13/2021-2,May,St. Croix National,11,4,5,0,R,0,R,2,0
+2021,7/13/2021-2,May,St. Croix National,12,5,4,1,NaN,1,NaN,1,NaN
+2021,7/13/2021-2,May,St. Croix National,13,3,3,NaN,NaN,1,NaN,2,NaN
+2021,7/13/2021-2,May,St. Croix National,14,4,4,1,NaN,0,L,1,1
+2021,7/13/2021-2,May,St. Croix National,15,3,4,NaN,NaN,0,L,2,0
+2021,7/13/2021-2,May,St. Croix National,16,5,5,0,R,1,NaN,2,NaN
+2021,7/13/2021-2,May,St. Croix National,17,4,5,0,R,0,S,2,NaN
+2021,7/13/2021-2,May,St. Croix National,18,4,4,1,NaN,0,L,1,0
+2022,7/14/2022,July,Chisago,1,5,5,1,NaN,1,NaN,2,NaN
+2022,7/14/2022,July,Chisago,2,4,4,1,NaN,1,NaN,2,NaN
+2022,7/14/2022,July,Chisago,3,4,4,0,L,0,Icarito,1,1
+2022,7/14/2022,July,Chisago,4,4,5,1,NaN,0,R,2,0
+2022,7/14/2022,July,Chisago,5,5,5,1,NaN,1,NaN,2,NaN
+2022,7/14/2022,July,Chisago,6,3,3,NaN,NaN,1,NaN,2,NaN
+2022,7/14/2022,July,Chisago,7,4,4,0,R,1,NaN,2,NaN
+2022,7/14/2022,July,Chisago,8,3,4,NaN,NaN,0,L,2,0
+2022,7/14/2022,July,Chisago,9,4,4,1,NaN,1,NaN,2,0
+2021,7/18/2021,July,Pioneer,1,4,4,1,NaN,1,NaN,2,NaN
+2021,7/18/2021,July,Pioneer,2,4,5,0,L,0,S,2,0
+2021,7/18/2021,July,Pioneer,3,5,5,1,NaN,0,Icarito,1,1
+2021,7/18/2021,July,Pioneer,4,3,3,NaN,NaN,1,NaN,2,NaN
+2021,7/18/2021,July,Pioneer,5,4,4,0,L,1,NaN,2,NaN
+2021,7/18/2021,July,Pioneer,6,5,4,1,NaN,1,NaN,1,NaN
+2021,7/18/2021,July,Pioneer,7,3,4,NaN,NaN,1,NaN,3,NaN
+2021,7/18/2021,July,Pioneer,8,4,5,0,R,0,R,2,0
+2021,7/18/2021,July,Pioneer,9,4,4,1,NaN,1,NaN,2,0
